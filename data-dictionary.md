@@ -9,5 +9,5 @@
 ## Sample Data
 | id | name     | age | score |
 |----|----------|-----|-------|
-| 1  | John Doe | 23  | 88    |
-| 2  | Jane Doe | 29  | 94    |
+| 1  | Jack Boesen | 22  | 88    |
+| 2  | Ronnie McDoodle | 25  | 94    |
