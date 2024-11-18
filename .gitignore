@@ -1,1 +1,19 @@
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
 
+# Ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore data files (except sample data)
+data/raw/*
+!data/raw/sample_data.csv
+data/processed/*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
