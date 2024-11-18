@@ -15,8 +15,3 @@ This repository is a template for data analytics projects using Python and Jupyt
 - **TODO.md**: List tasks.
 - **data-dictionary.md**: Describes the data.
 - **template.ipynb**: Starter Jupyter Notebook.
-
-## Getting Started
-1. Clone this repository to my local machine.
-2. Add your raw data files to `data/raw/`.
-3. Use the `notebooks/template.ipynb` file to begin your analysis.
